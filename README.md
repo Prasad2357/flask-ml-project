@@ -47,7 +47,8 @@ To set up the project locally, follow these steps:
 
 ## Usage
 
-After starting the Flask app, navigate to `http://localhost:5000` in your web browser to access the application. Input the required parameters to get flight price predictions.
+After starting the Flask app, navigate to [http://localhost:5000](http://localhost:5000) in your web browser to access the application. You can also access the deployed app at [https://flask-ml-project-v4al.onrender.com](https://flask-ml-project-v4al.onrender.com). Input the required parameters to get flight price predictions.
+
 
 ## Models Used
 
