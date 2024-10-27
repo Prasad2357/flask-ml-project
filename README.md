@@ -62,9 +62,9 @@ The following machine learning models were implemented in this project:
 
 The Random Forest model demonstrated the best performance in predicting flight prices. Below are visual representations of the model's performance:
 
-![Model Performance](https://link-to-your-image-1.com)
+![Model Performance](https://github.com/Prasad2357/flask-ml-project/blob/master/Images/Home_Page.png)
 
-![Price Predictions](https://link-to-your-image-2.com)
+![Price Predictions](https://github.com/Prasad2357/flask-ml-project/blob/master/Images/Predict.png)
 
 ## Contributing
 
